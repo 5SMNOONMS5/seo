@@ -2,8 +2,8 @@
 
 namespace ISB\Seo\Facades;
 
-use ISB\Seo\SeoClass;
 use Illuminate\Support\Facades\Facade;
+use ISB\Seo\SeoClass;
 
 class Seo extends Facade
 {

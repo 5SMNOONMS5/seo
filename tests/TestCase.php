@@ -2,8 +2,8 @@
 
 namespace isb\seo\Tests;
 
-use ISB\Seo\ISBSeoServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
+use ISB\Seo\ISBSeoServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra

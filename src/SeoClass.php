@@ -6,6 +6,6 @@ class SeoClass
 {
     public function ping()
     {
-        dd(__class__);
+        dd(__CLASS__);
     }
 }
